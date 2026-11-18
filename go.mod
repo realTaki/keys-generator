@@ -1,6 +1,6 @@
 module keys-generator
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/btcsuite/btcd v0.22.1
@@ -14,6 +14,6 @@ require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
-	golang.org/x/crypto v0.44.0 // indirect
-	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
